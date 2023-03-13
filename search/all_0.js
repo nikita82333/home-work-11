@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['_5fcombiner_0',['_combiner',['../d8/d17/classMapReduce.html#a5ab9962900f4e1a020e0f3cb0e1e363e',1,'MapReduce']]],
+  ['_5fcombiner_5fout_1',['_combiner_out',['../d8/d17/classMapReduce.html#a64e4dac5bdc26765b4b464d76d46a369',1,'MapReduce']]],
+  ['_5fdata_5fcount_2',['_data_count',['../d7/d2e/classShufflerFilePool.html#a9cac7a010354453fe62cc058d7ff8702',1,'ShufflerFilePool']]],
+  ['_5fdata_5findex_3',['_data_index',['../d7/d2e/classShufflerFilePool.html#a5bb10670eae25e966a9bcffeb1d8c7e9',1,'ShufflerFilePool']]],
+  ['_5ffile_5findex_4',['_file_index',['../d7/d2e/classShufflerFilePool.html#a97aae73a0c1385cc5bf40b3220f4dade',1,'ShufflerFilePool']]],
+  ['_5ffile_5fpool_5',['_file_pool',['../d0/d45/classFilePool.html#a9d021e2b3e29a7d64ca683004bdb3bfd',1,'FilePool']]],
+  ['_5ffile_5fsize_6',['_file_size',['../d7/d2e/classShufflerFilePool.html#ac7c2e8d088a5593c64b294369541d035',1,'ShufflerFilePool']]],
+  ['_5ffiles_5fcount_7',['_files_count',['../d0/d45/classFilePool.html#a88a199584cd9d876fbb4aa8c25c53886',1,'FilePool']]],
+  ['_5fmapper_8',['_mapper',['../d8/d17/classMapReduce.html#a528565b6292660cbbfd67ee9c7ed2f43',1,'MapReduce']]],
+  ['_5fmapper_5fout_9',['_mapper_out',['../d8/d17/classMapReduce.html#af95c9f1f6afc5c86e7ff7e76aef8e677',1,'MapReduce']]],
+  ['_5fmappers_5fcount_10',['_mappers_count',['../d8/d17/classMapReduce.html#a67626c945d08b4d4a325d1886e4f03d1',1,'MapReduce']]],
+  ['_5fmode_11',['_mode',['../d0/d45/classFilePool.html#a53f460949f61b10625db0cb516f97f82',1,'FilePool']]],
+  ['_5fnext_5ffile_5fpending_12',['_next_file_pending',['../d7/d2e/classShufflerFilePool.html#ae2ac77fbbd6dcf45711f34d2972f9fae',1,'ShufflerFilePool']]],
+  ['_5fpath_13',['_path',['../d0/d45/classFilePool.html#a0044d9dd3753f261439b882778576fe0',1,'FilePool']]],
+  ['_5fprev_5fdata_14',['_prev_data',['../d7/d2e/classShufflerFilePool.html#aa0c90af41ca7a3c69cfd01833dfe4f5f',1,'ShufflerFilePool']]],
+  ['_5freducer_15',['_reducer',['../d8/d17/classMapReduce.html#a40ffa541ec0e101e0b66dc08883ee3a2',1,'MapReduce']]],
+  ['_5freducer_5fin_16',['_reducer_in',['../d8/d17/classMapReduce.html#a85a66298035276914acddd54a44aa477',1,'MapReduce']]],
+  ['_5freducer_5fout_17',['_reducer_out',['../d8/d17/classMapReduce.html#a03425e7d8cb755ef8df0a5d585005e3d',1,'MapReduce']]],
+  ['_5freducers_5fcount_18',['_reducers_count',['../d8/d17/classMapReduce.html#aecedde7d51a57418cb9dbb78937b1227',1,'MapReduce']]],
+  ['_5fsize_5fexceeding_19',['_size_exceeding',['../d7/d2e/classShufflerFilePool.html#ac448e20cc5488f1e4b68ab7216208524',1,'ShufflerFilePool']]],
+  ['_5fwork_20',['_work',['../d8/d17/classMapReduce.html#a78525e3464b724cdd6afcce5093018cd',1,'MapReduce']]]
+];

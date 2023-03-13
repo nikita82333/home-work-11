@@ -1,0 +1,4 @@
+<map id="ShufflerFilePool" name="ShufflerFilePool">
+<area shape="rect" id="node1" title="Class ShufflerFilePool &#45; adds the ability to write a amount of data sequentially to a pool of files." alt="" coords="5,79,117,104"/>
+<area shape="rect" id="node2" href="$d0/d45/classFilePool.html" title="Class FilePool &#45; works with a file pool." alt="" coords="27,5,96,31"/>
+</map>
